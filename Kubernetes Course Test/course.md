@@ -8,3 +8,4 @@ price:
 categories: 
   - kubernetes
 learningPaths: []
+complexity: advance

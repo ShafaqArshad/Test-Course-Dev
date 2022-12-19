@@ -1,4 +1,4 @@
-title: Kubernetes Learning Path 3
+title: Lp 3 Shafaq
 description: Lets learn how to build a web application with Flask.
 scenarios: []
 isPremium: true

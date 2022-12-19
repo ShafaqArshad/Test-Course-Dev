@@ -1,7 +1,7 @@
 courseName: Kubernetes Course Test
 description: New Kubernetes Course For Test
 isAvailable: true
-isPremium: false
+isPremium: true
 price: 
   22 USD
 categories: 

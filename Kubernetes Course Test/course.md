@@ -3,7 +3,8 @@ description: New Kubernetes Course For Test
 isAvailable: true
 isPremium: true
 price: 
-  22 USD
+  value: 22
+  currency: USD
 categories: 
   - kubernetes
 learningPaths: 
